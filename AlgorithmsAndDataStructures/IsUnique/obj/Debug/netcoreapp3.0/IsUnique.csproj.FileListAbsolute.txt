@@ -1,0 +1,13 @@
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\bin\Debug\netcoreapp3.0\IsUnique.exe
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\bin\Debug\netcoreapp3.0\IsUnique.deps.json
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\bin\Debug\netcoreapp3.0\IsUnique.runtimeconfig.json
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\bin\Debug\netcoreapp3.0\IsUnique.runtimeconfig.dev.json
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\bin\Debug\netcoreapp3.0\IsUnique.dll
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\bin\Debug\netcoreapp3.0\IsUnique.pdb
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\obj\Debug\netcoreapp3.0\IsUnique.csprojAssemblyReference.cache
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\obj\Debug\netcoreapp3.0\IsUnique.AssemblyInfoInputs.cache
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\obj\Debug\netcoreapp3.0\IsUnique.AssemblyInfo.cs
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\obj\Debug\netcoreapp3.0\IsUnique.dll
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\obj\Debug\netcoreapp3.0\IsUnique.pdb
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\obj\Debug\netcoreapp3.0\IsUnique.csproj.CoreCompileInputs.cache
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\IsUnique\obj\Debug\netcoreapp3.0\IsUnique.genruntimeconfig.cache

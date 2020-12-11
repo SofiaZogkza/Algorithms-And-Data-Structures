@@ -1,0 +1,13 @@
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\bin\Debug\netcoreapp3.0\BinarySearchTree.exe
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\bin\Debug\netcoreapp3.0\BinarySearchTree.deps.json
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\bin\Debug\netcoreapp3.0\BinarySearchTree.runtimeconfig.json
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\bin\Debug\netcoreapp3.0\BinarySearchTree.runtimeconfig.dev.json
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\bin\Debug\netcoreapp3.0\BinarySearchTree.dll
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\bin\Debug\netcoreapp3.0\BinarySearchTree.pdb
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.0\BinarySearchTree.csprojAssemblyReference.cache
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.0\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.0\BinarySearchTree.AssemblyInfo.cs
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.0\BinarySearchTree.dll
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.0\BinarySearchTree.pdb
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.0\BinarySearchTree.genruntimeconfig.cache
