@@ -10,3 +10,15 @@ C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructu
 C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.dll
 C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.pdb
 C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.genruntimeconfig.cache
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.exe
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.deps.json
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.runtimeconfig.json
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.runtimeconfig.dev.json
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.dll
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.pdb
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.AssemblyInfoInputs.cache
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.AssemblyInfo.cs
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.dll
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.pdb
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.genruntimeconfig.cache

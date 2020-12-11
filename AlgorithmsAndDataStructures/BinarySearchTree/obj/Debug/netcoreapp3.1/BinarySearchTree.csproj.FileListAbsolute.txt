@@ -10,3 +10,15 @@ C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\obj\Deb
 C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.dll
 C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.pdb
 C:\Users\sof_z\source\repos\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.genruntimeconfig.cache
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.exe
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.deps.json
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.runtimeconfig.json
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.runtimeconfig.dev.json
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.dll
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.pdb
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.AssemblyInfo.cs
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.dll
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.pdb
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.genruntimeconfig.cache
