@@ -30,12 +30,14 @@ namespace ArraysAndStrings
             //Console.WriteLine("abcbba is Palindrome Permutation: " + PalindromePermutation.IsPalindrome("abcbba") + "\n");
             #endregion
 
-            OneWay.CheckIfOneEdit("sofia", "sofia");
-            OneWay.CheckIfOneEdit("sofiazogkza", "sofia");
-            OneWay.CheckIfOneEdit("pale", "ple");
-            OneWay.CheckIfOneEdit("pales", "pale");
-            OneWay.CheckIfOneEdit("pale", "bale");
-            OneWay.CheckIfOneEdit("pale", "bake");
+            //OneWay.CheckIfOneEdit("sofia", "sofia");
+            //OneWay.CheckIfOneEdit("sofiazogkza", "sofia");
+            //OneWay.CheckIfOneEdit("pale", "ple");
+            //OneWay.CheckIfOneEdit("pales", "pale");
+            //OneWay.CheckIfOneEdit("pale", "bale");
+            //OneWay.CheckIfOneEdit("pale", "bake");
+
+            StringCompression.CompressString("aabcccccaaa");
 
             Console.ReadLine();
         }

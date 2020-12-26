@@ -36,3 +36,4 @@ C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStru
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\ArraysAndStrings\obj\Debug\netcoreapp3.1\ArraysAndStrings.dll
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\ArraysAndStrings\obj\Debug\netcoreapp3.1\ArraysAndStrings.pdb
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\ArraysAndStrings\obj\Debug\netcoreapp3.1\ArraysAndStrings.genruntimeconfig.cache
+C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\ArraysAndStrings\obj\Debug\netcoreapp3.1\ArraysAndStrings.csprojAssemblyReference.cache
