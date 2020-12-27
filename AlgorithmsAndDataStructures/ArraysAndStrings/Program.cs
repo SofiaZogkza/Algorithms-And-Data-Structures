@@ -37,7 +37,9 @@ namespace ArraysAndStrings
             //OneWay.CheckIfOneEdit("pale", "bale");
             //OneWay.CheckIfOneEdit("pale", "bake");
 
-            StringCompression.CompressString("aabcccccaaa");
+            //StringCompression.CompressString("aabcccccaaa");
+
+            RotateMatrix.MatrixRotation();
 
             Console.ReadLine();
         }
