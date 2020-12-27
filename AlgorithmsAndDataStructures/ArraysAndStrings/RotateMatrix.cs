@@ -4,11 +4,10 @@ using System;
 namespace ArraysAndStrings
 {
     public class RotateMatrix
-    {
-        Matrix helperMatrix = new Matrix();
-
+    {        
         public static void MatrixRotation()
         {
+            Matrix helperMatrix = new Matrix();
             int rows = 4;
             int columns = 4;
             int[,] matrix = new int[rows,columns];
@@ -25,14 +24,13 @@ namespace ArraysAndStrings
              * 1 5 9  13
              */
 
-
-            ShowMatrix(matrix, rows, columns);
+            helperMatrix.ShowMatrix(matrix, rows, columns);
 
             Console.WriteLine();
 
             Rotate(matrix, rows);
 
-            ShowMatrix(matrix, rows, columns);
+            helperMatrix.ShowMatrix(matrix, rows, columns);
         }
 
         public static bool Rotate(int[,] matrix, int N)
@@ -65,20 +63,6 @@ namespace ArraysAndStrings
                 }
             }
             return true;
-        }
-
-        
-
-        public static void ShowMatrix(int[,] matrix, int rows, int columns)
-        {
-            for (int i = 0; i < rows; i++)
-            {
-                for (int j = 0; j < columns; j++)
-                {
-                    Console.Write(matrix[i, j] + " ");
-                }
-                Console.WriteLine();
-            }
         }
     }
 }

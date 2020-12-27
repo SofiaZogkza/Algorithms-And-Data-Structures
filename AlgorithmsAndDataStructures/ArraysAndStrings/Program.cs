@@ -39,7 +39,9 @@ namespace ArraysAndStrings
 
             //StringCompression.CompressString("aabcccccaaa");
 
-            RotateMatrix.MatrixRotation();
+            //RotateMatrix.MatrixRotation();
+
+            ZeroMatrix.SetToZero();
 
             Console.ReadLine();
         }
