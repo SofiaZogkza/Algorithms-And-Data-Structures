@@ -1,18 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using ArraysAndStrings.HelperClasses;
+using System;
 
 namespace ArraysAndStrings
 {
     public class RotateMatrix
     {
+        Matrix helperMatrix = new Matrix();
+
         public static void MatrixRotation()
         {
             int rows = 4;
             int columns = 4;
             int[,] matrix = new int[rows,columns];
             
-            matrix = InitializeMatrix(matrix, rows, columns);
+            matrix = helperMatrix.InitializeMatrix(matrix, rows, columns);
             /* 1 2 3 4
              * 5 6 7 8
              * 9 10 11 12
@@ -66,20 +67,7 @@ namespace ArraysAndStrings
             return true;
         }
 
-        public static int[,] InitializeMatrix(int[,]  matrix, int rows, int columns)
-        {
-            int count = 0;
-            matrix = new int[rows, columns];
-            for (int i = 0; i < rows; i++)
-            {
-                for (int j = 0; j < columns; j++)
-                {
-                    count++;
-                    matrix[i, j] = count;
-                }
-            }
-            return matrix;
-        }
+        
 
         public static void ShowMatrix(int[,] matrix, int rows, int columns)
         {

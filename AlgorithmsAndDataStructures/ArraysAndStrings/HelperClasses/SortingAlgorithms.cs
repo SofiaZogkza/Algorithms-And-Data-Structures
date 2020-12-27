@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ArraysAndStrings.HelperClasses
+﻿namespace ArraysAndStrings.HelperClasses
 {
     public class SortingAlgorithms
     {
