@@ -22,3 +22,16 @@ C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\Algori
 C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.dll
 C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.pdb
 C:\Users\DELL PRECISION M6700\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.genruntimeconfig.cache
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.exe
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.deps.json
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.runtimeconfig.json
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.runtimeconfig.dev.json
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.dll
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.pdb
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.csprojAssemblyReference.cache
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.AssemblyInfoInputs.cache
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.AssemblyInfo.cs
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.dll
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.pdb
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.genruntimeconfig.cache

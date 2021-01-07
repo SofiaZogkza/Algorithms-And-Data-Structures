@@ -26,9 +26,15 @@ namespace ArraysAndStrings
 
             helperMatrix.ShowMatrix(matrix, rows, columns);
 
+            //Console.WriteLine();
+
+            //Rotate(matrix, rows);
+
+            //helperMatrix.ShowMatrix(matrix, rows, columns);
+
             Console.WriteLine();
 
-            Rotate(matrix, rows);
+            Rotate2(matrix, rows);
 
             helperMatrix.ShowMatrix(matrix, rows, columns);
         }
@@ -42,26 +48,49 @@ namespace ArraysAndStrings
             }
                 
             
-            for (int layer = 0; layer < N / 2; layer++)
+            for (int i = 0; i < N / 2; i++)
             {
-                for (int y = layer; y < N - layer - 1; y++)
+                for (int j = i; j < N - i - 1; j++)
                 {
                     // store current cell in temp variable 
-                    int temp = matrix[layer, y];
+                    int temp = matrix[i, j];
 
                     // move values from right to top 
-                    matrix[layer, y] = matrix[y, N - 1 - layer];
+                    matrix[i, j] = matrix[j, N - 1 - i];
 
                     // move values from bottom to right 
-                    matrix[y, N - 1 - layer] = matrix[N - 1 - layer, N - 1 - y];
+                    matrix[j, N - 1 - i] = matrix[N - 1 - i, N - 1 - j];
 
                     // move values from left to bottom 
-                    matrix[N - 1 - layer, N - 1 - y] = matrix[N - 1 - y, layer];
+                    matrix[N - 1 - i, N - 1 - j] = matrix[N - 1 - j, i];
 
                     // assign temp to left 
-                    matrix[N - 1 - y, layer] = temp;
+                    matrix[N - 1 - j, i] = temp;
                 }
             }
+
+            return true;
+        }
+
+        public static bool Rotate2(int[,] matrix, int N)
+        {
+            if (matrix.Length == 0 ||
+                matrix.Length == matrix[0, 0])
+            {
+                return false;
+            }
+            // Flip Horizontaly
+            // Swap 1st column with the last column and move on to the center.
+            for (int i = 0; i < N; i++)
+            {
+                for (int j = 0; j < (N/2); j++)
+                {
+                    int temp = matrix[i, j];
+                    matrix[i, j] = matrix[i, N - 1 - j];
+                    matrix[i, N - 1 - j] = temp;
+                }
+            }
+
             return true;
         }
     }

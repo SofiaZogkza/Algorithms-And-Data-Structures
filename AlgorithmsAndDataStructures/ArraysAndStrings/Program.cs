@@ -41,8 +41,11 @@ namespace ArraysAndStrings
 
             //RotateMatrix.MatrixRotation();
 
-            ZeroMatrix.SetToZero();
+            //ZeroMatrix.SetToZero();
 
+            StringRotation.IsRotation("waterbottle", "erbottlewat");
+            StringRotation.IsRotation("waterbottles", "erbottlewat");
+            StringRotation.IsRotation("waterbottles", "erbottlewats");
             Console.ReadLine();
         }
     }

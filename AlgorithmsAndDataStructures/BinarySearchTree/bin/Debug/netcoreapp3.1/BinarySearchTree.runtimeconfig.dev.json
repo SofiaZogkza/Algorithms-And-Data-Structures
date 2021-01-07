@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\DELL PRECISION M6700\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\DELL PRECISION M6700\\.nuget\\packages"
+      "C:\\Users\\sof_z\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sof_z\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
 }
