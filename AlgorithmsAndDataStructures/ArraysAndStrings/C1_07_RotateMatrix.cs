@@ -3,7 +3,7 @@ using System;
 
 namespace ArraysAndStrings
 {
-    public class RotateMatrix
+    public class C1_07_RotateMatrix
     {        
         public static void MatrixRotation()
         {

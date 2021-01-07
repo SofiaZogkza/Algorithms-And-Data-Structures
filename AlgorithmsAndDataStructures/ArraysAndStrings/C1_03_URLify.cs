@@ -1,6 +1,6 @@
 ﻿namespace ArraysAndStrings
 {
-    public class URLify
+    public class C1_03_URLify
     {
         public static string UrlifyTheString(string str)
         {

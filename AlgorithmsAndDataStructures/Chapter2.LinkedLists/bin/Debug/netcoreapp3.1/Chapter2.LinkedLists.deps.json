@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Chapter2.LinkedLists/1.0.0": {
+        "dependencies": {
+          "AlgorithmsAndDataStructures": "1.0.0"
+        },
+        "runtime": {
+          "Chapter2.LinkedLists.dll": {}
+        }
+      },
+      "AlgorithmsAndDataStructures/1.0.0": {
+        "runtime": {
+          "AlgorithmsAndDataStructures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter2.LinkedLists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlgorithmsAndDataStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

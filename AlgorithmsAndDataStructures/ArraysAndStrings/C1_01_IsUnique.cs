@@ -2,7 +2,7 @@
 
 namespace ArraysAndStrings
 {
-    public class IsUnique
+    public class C1_01_IsUnique
     {
         public static bool IsUniqueString(string str)
         {

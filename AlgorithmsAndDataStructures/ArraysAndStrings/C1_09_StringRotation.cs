@@ -2,7 +2,7 @@
 
 namespace ArraysAndStrings
 {
-    public class StringRotation
+    public class C1_09_StringRotation
     {
         public static bool IsRotation(string str1, string str2)
         {

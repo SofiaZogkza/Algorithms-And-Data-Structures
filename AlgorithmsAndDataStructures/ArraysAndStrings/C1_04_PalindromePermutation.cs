@@ -2,7 +2,7 @@
 
 namespace ArraysAndStrings
 {
-    public class PalindromePermutation
+    public class C1_04_PalindromePermutation
     {
         public static bool IsPalindrome(string str)
         {

@@ -3,7 +3,7 @@ using System.Text;
 
 namespace ArraysAndStrings
 {
-    public class StringCompression
+    public class C1_06_StringCompression
     {
         // aabcccccaaa - > a2b1c5a3.
         public static string CompressString(string str)

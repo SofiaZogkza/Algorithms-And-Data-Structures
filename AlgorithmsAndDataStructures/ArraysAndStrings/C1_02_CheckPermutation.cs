@@ -2,7 +2,7 @@
 
 namespace ArraysAndStrings
 {
-    public class CheckPermutation
+    public class C1_02_CheckPermutation
     {
         public static bool IsPermutation(string str1, string str2)
         {

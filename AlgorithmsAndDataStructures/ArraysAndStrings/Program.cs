@@ -43,9 +43,9 @@ namespace ArraysAndStrings
 
             //ZeroMatrix.SetToZero();
 
-            StringRotation.IsRotation("waterbottle", "erbottlewat");
-            StringRotation.IsRotation("waterbottles", "erbottlewat");
-            StringRotation.IsRotation("waterbottles", "erbottlewats");
+            C1_09_StringRotation.IsRotation("waterbottle", "erbottlewat");
+            C1_09_StringRotation.IsRotation("waterbottles", "erbottlewat");
+            C1_09_StringRotation.IsRotation("waterbottles", "erbottlewats");
             Console.ReadLine();
         }
     }

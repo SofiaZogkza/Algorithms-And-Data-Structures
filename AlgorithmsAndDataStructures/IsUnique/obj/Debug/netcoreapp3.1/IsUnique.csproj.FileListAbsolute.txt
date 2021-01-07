@@ -28,7 +28,6 @@ C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStru
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\IsUnique\bin\Debug\netcoreapp3.1\IsUnique.runtimeconfig.dev.json
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\IsUnique\bin\Debug\netcoreapp3.1\IsUnique.dll
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\IsUnique\bin\Debug\netcoreapp3.1\IsUnique.pdb
-C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\IsUnique\obj\Debug\netcoreapp3.1\IsUnique.csprojAssemblyReference.cache
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\IsUnique\obj\Debug\netcoreapp3.1\IsUnique.AssemblyInfoInputs.cache
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\IsUnique\obj\Debug\netcoreapp3.1\IsUnique.AssemblyInfo.cs
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\IsUnique\obj\Debug\netcoreapp3.1\IsUnique.csproj.CoreCompileInputs.cache

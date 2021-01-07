@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace ArraysAndStrings
 {
-    public static class OneWay
+    public static class C1_05_OneWay
     {
         public static bool CheckIfOneEdit(string str1, string str2)
         {

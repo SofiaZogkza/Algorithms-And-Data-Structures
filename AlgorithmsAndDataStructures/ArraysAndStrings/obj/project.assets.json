@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sof_z\\source\\repos\\Algorithms-And-Data-Structures\\AlgorithmsAndDataStructures\\ArraysAndStrings\\ArraysAndStrings.csproj",
-      "projectName": "ArraysAndStrings",
-      "projectPath": "C:\\Users\\sof_z\\source\\repos\\Algorithms-And-Data-Structures\\AlgorithmsAndDataStructures\\ArraysAndStrings\\ArraysAndStrings.csproj",
+      "projectUniqueName": "C:\\Users\\sof_z\\source\\repos\\Algorithms-And-Data-Structures\\AlgorithmsAndDataStructures\\ArraysAndStrings\\Chapter1.ArraysAndStrings.csproj",
+      "projectName": "Chapter1.ArraysAndStrings",
+      "projectPath": "C:\\Users\\sof_z\\source\\repos\\Algorithms-And-Data-Structures\\AlgorithmsAndDataStructures\\ArraysAndStrings\\Chapter1.ArraysAndStrings.csproj",
       "packagesPath": "C:\\Users\\sof_z\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sof_z\\source\\repos\\Algorithms-And-Data-Structures\\AlgorithmsAndDataStructures\\ArraysAndStrings\\obj\\",
       "projectStyle": "PackageReference",

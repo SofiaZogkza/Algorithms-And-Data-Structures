@@ -3,7 +3,7 @@ using System;
 
 namespace ArraysAndStrings
 {
-    public class ZeroMatrix
+    public class C1_08_ZeroMatrix
     {
         public static void SetToZero()
         {

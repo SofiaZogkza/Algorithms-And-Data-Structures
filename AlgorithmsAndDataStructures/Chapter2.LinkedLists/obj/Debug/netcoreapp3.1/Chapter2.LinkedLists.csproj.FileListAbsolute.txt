@@ -1,0 +1,17 @@
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.exe
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\bin\Debug\netcoreapp3.1\Chapter2.LinkedLists.exe
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\bin\Debug\netcoreapp3.1\Chapter2.LinkedLists.deps.json
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\bin\Debug\netcoreapp3.1\Chapter2.LinkedLists.runtimeconfig.json
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\bin\Debug\netcoreapp3.1\Chapter2.LinkedLists.runtimeconfig.dev.json
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\bin\Debug\netcoreapp3.1\Chapter2.LinkedLists.dll
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\bin\Debug\netcoreapp3.1\Chapter2.LinkedLists.pdb
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.dll
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\bin\Debug\netcoreapp3.1\AlgorithmsAndDataStructures.pdb
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\obj\Debug\netcoreapp3.1\Chapter2.LinkedLists.csprojAssemblyReference.cache
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\obj\Debug\netcoreapp3.1\Chapter2.LinkedLists.AssemblyInfoInputs.cache
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\obj\Debug\netcoreapp3.1\Chapter2.LinkedLists.AssemblyInfo.cs
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\obj\Debug\netcoreapp3.1\Chapter2.LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\obj\Debug\netcoreapp3.1\Chapter2.LinkedLists.csproj.CopyComplete
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\obj\Debug\netcoreapp3.1\Chapter2.LinkedLists.dll
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\obj\Debug\netcoreapp3.1\Chapter2.LinkedLists.pdb
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\Chapter2.LinkedLists\obj\Debug\netcoreapp3.1\Chapter2.LinkedLists.genruntimeconfig.cache
