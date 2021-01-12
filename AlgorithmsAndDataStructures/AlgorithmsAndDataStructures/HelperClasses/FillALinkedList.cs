@@ -10,12 +10,12 @@ namespace AlgorithmsAndDataStructures.HelperClasses
             LinkedList<int> list = new LinkedList<int>();
             Random random = new Random();
 
-            for(int i =0; i<length; i++)
+            for (int i = 0; i < length; i++)
             {
                 list.AddLast(random.Next(0, 10));
             }
 
             return list;
-        }
+        }        
     }
 }

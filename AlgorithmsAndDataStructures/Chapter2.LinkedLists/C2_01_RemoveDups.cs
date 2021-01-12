@@ -1,4 +1,5 @@
 ﻿using AlgorithmsAndDataStructures.HelperClasses;
+using Chapter2.LinkedLists.HelperMethods;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,15 +8,15 @@ namespace Chapter2.LinkedLists
 {
     public class C2_01_RemoveDups
     {
-        public static void RemoveDuplicates(int n)
+        public static void RemoveDuplicates(int ListLength)
         {
             var _unsortedList = new FillALinkedList();
-            var newList = _unsortedList.FillLinkedList(n);
+            var newList = _unsortedList.FillLinkedList(ListLength);
             foreach (var item in newList)
             {
                 Console.Write(item + " ");
             }
-            Console.WriteLine("Linked List's Length: " + n);
+            Console.WriteLine("Linked List's Length: " + ListLength);
 
             Dictionary<int, int> dict = new Dictionary<int, int>();
 
@@ -49,6 +50,35 @@ namespace Chapter2.LinkedLists
             Console.WriteLine("After Removing Dups the Linked List's Length: " + newList.Count);
         }
 
+       
+        public static void RemoveDuplicaties_CustomedLinkedList(Node head)
+        {
+            // Hash to store seen values
+            HashSet<int> hs = new HashSet<int>();
 
+            // Pick elements one by one 
+            Node current = head;
+            Node prev = null;
+            while (current != null)
+            {
+                int curval = current.data;
+
+                // If current value is seen before
+                if (hs.Contains(curval))
+                {
+                    prev.next = current.next;
+                }
+                else
+                {
+                    hs.Add(curval);
+                    prev = current;
+                }
+                current = current.next;
+            }           
+        }
+
+        
+
+        
     }
 }
