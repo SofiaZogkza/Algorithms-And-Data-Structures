@@ -4,6 +4,10 @@ namespace ArraysAndStrings
 {
     public class C1_04_PalindromePermutation
     {
+        /*
+         * Palindrome string :  if it reads the same backwards as well as forwards.
+         * Permutation of a String S is some String K where S and K contain the same set of characters
+         */
         public static bool IsPalindrome(string str)
         {
             int strLength = str.Length - 1;

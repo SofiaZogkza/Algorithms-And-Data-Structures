@@ -4,7 +4,6 @@ C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStru
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\ArraysAndStrings\bin\Debug\netcoreapp3.1\Chapter1.ArraysAndStrings.runtimeconfig.dev.json
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\ArraysAndStrings\bin\Debug\netcoreapp3.1\Chapter1.ArraysAndStrings.dll
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\ArraysAndStrings\bin\Debug\netcoreapp3.1\Chapter1.ArraysAndStrings.pdb
-C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\ArraysAndStrings\obj\Debug\netcoreapp3.1\Chapter1.ArraysAndStrings.csprojAssemblyReference.cache
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\ArraysAndStrings\obj\Debug\netcoreapp3.1\Chapter1.ArraysAndStrings.AssemblyInfoInputs.cache
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\ArraysAndStrings\obj\Debug\netcoreapp3.1\Chapter1.ArraysAndStrings.AssemblyInfo.cs
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\ArraysAndStrings\obj\Debug\netcoreapp3.1\Chapter1.ArraysAndStrings.csproj.CoreCompileInputs.cache
