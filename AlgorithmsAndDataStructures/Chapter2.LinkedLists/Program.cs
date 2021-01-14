@@ -30,7 +30,9 @@ namespace Chapter2.LinkedLists
             //help.PrintList(start);
             #endregion
 
-            C2_02_ReturnKthToLast.ReturnKthToLast(start, 3);
+            //C2_02_ReturnKthToLast.ReturnKthToLast(start, 3);
+
+            C2_03_DeleteMiddleNode.DeleteNode(start);
 
 
 

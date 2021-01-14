@@ -34,3 +34,4 @@ C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStru
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.dll
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.pdb
 C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.genruntimeconfig.cache
+C:\Users\sof_z\source\repos\Algorithms-And-Data-Structures\AlgorithmsAndDataStructures\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.csprojAssemblyReference.cache
